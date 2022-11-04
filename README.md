@@ -1,10 +1,18 @@
 # hngnft-csv
-A cli tool that generates sha256 of your csv file and appends it to the csv file for you.
+A cli tool that generates SHA256 of your CSV file and appends it to the CSV file.
+
+The CSV(Comma Seperated Values) file is converted to a JSON(Javascript Object Notation) file then its hash(SHA256) is appended to each row of the file and it's reconverted back to a csv file. 
 
 ## Steps
-- Copy this entire folder to your machine.
-- Open your terminal by typing cmd on your machine's search bar and click on it.
-- cd to where you stored the project folder (cd is change directory).
-- Run the cli.py file only (The csv input folder is already located in input_csv) by typing the name and hit enter.
-- Your output csv will be generated in the output_csv.
-- If you have vscode, just clone to your machine and run the cli.py file.
+1. In your terminal, clone this repository to your local machine:
+        `git clone https://github.com/Iloabuchi-Collins/hngnft-csv.git`
+
+2. Change directory to the newly cloned repository:
+        `cd hngnft-cvs`
+
+3. install the required dependencies for the project:
+        `pip install -r requirements.txt`
+
+4. Run the code:
+        `python3 main.py {csv name}`
+    Remember to replace the 'csv name'above with the name of your csv file

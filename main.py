@@ -1,13 +1,4 @@
-"""
-Copyright 2022 @theadeyemiolayinka
-- Collect team values from CSV input
-- Generate a CHIP-007 JSON file for each row
-- Create sha256 encryption for each json file
-- Append the sha256 hash to each line in a new csv (filename.output.csv)
-"""
-
 import os
-
 import argparse
 import csv 
 import hashlib
