@@ -20,3 +20,6 @@ make sure you have python3 installed in your system.
 5. Run the code: <br>
         `python3 main.py -f {csvname.csv}` <br>
     Remember to replace the 'csvname.csv'above with the name of your csv file <br>
+
+6. The new hashed CSV file will be saved in the same root directory, while the json CHIP 0007 format of the CSV file will be saved in the "output" folder
+
