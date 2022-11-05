@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "barasa the optimist", 
+    "description": "looks up to the sky and makes a wish", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "325", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "2da4bef4-38cc-4414-99ad-7361fac04b2b", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "blue", 
+                "clothing": "", 
+                "accessories": "skin", 
+                "expression": "dark", 
+                "strength": "clothing", 
+                "weakness": "brown"
+            }
+        ]
+    }
+}

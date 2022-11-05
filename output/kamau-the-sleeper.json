@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "kamau the sleeper", 
+    "description": "closed eyes meditating", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "322", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "20330f5c-40c2-4f6a-b9d8-d1d04fb97daf", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "closed", 
+                "clothing": "", 
+                "accessories": "noneskin", 
+                "expression": "brownskin", 
+                "strength": "", 
+                "weakness": "ankara"
+            }
+        ]
+    }
+}

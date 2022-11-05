@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "king of baldmek", 
+    "description": "A man that was born bald and has never seen a hair on his head.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "212", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "5142f00b-10b5-47a5-ab8a-8ae71b255b04", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "black;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "shirt;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

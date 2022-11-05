@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "ogbeni rauf", 
+    "description": "Minister of enjoyment for Freedom state.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "256", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "048f1180-33be-4a58-881e-22e7f0f96455", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "squint;", 
+                "clothing": "", 
+                "accessories": "tooth;", 
+                "expression": "", 
+                "strength": "accessories", 
+                "weakness": "cap;"
+            }
+        ]
+    }
+}

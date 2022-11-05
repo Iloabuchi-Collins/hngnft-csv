@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "phiri of zambia", 
+    "description": "An african woman with strength and beauty.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "63", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "24b537fa-59d3-11ed-9b6a-0242ac120002", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "buns;", 
+                "teeth": "nose;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "adire;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

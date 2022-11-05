@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "grandma nanny", 
+    "description": "A grandmother that does nothing but sleeps all day.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "208", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "ec8fe198-5c45-42a6-a909-4cfbcbbf6519", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "blue;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "blouse;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

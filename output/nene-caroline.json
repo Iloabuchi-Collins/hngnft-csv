@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "nene caroline", 
+    "description": "A housewife that loves taking care of her family.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "222", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "4ce5bcf3-d4ed-4277-8187-cb1797c1ac7e", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "white;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "accessories", 
+                "strength": "none;", 
+                "weakness": ""
+            }
+        ]
+    }
+}

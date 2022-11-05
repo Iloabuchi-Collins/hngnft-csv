@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "saro texaco", 
+    "description": "An oil tycoon who dominates.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "248", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "ba8a51d0-24d6-43fe-bf56-12eb50f6fc4a", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "black;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "agbada;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

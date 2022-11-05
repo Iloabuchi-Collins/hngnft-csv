@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "salam the odogwu", 
+    "description": "Salam is a big time textile marketer always sourcing for quality materials.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "23", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "f2957ded-022c-4b07-92c6-b345d4816a67", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "brown;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "wine", 
+                "strength": "yellow;", 
+                "weakness": ""
+            }
+        ]
+    }
+}

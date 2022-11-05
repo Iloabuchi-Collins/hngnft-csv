@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "obasanjo funny guy", 
+    "description": "Obasanjo is such a sweet guy loves by all. ", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "122", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "c136a120-a339-4080-96ca-1c93845c5848", 
+        "attributes": [
+            {
+                "hair": "none", 
+                "eyes": "", 
+                "teeth": "teeth", 
+                "clothing": "open", 
+                "accessories": "clothing", 
+                "expression": "sleeveless", 
+                "strength": "ankara;", 
+                "weakness": "none;"
+            }
+        ]
+    }
+}

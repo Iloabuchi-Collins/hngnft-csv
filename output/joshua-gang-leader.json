@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "joshua gang leader", 
+    "description": "A boy born to ritualist parents and now runs his own gang.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "210", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "cc3c5c06-df96-4a0d-a09f-3359c21191f6", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "black;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "shirt;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

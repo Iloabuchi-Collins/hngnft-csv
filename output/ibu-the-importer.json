@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "ibu the importer", 
+    "description": "A rich man who steps on people's toes", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "289", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "d3edc876-3f2f-4699-a376-0787bb06c5d5", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "light", 
+                "clothing": "teeth", 
+                "accessories": "white", 
+                "expression": "a", 
+                "strength": "tooth", 
+                "weakness": ""
+            }
+        ]
+    }
+}

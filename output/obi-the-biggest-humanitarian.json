@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "obi the biggest humanitarian", 
+    "description": "Obi loves service to humanity.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "135", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "201a408c-7a2e-42d9-a62c-0136c885c211", 
+        "attributes": [
+            {
+                "hair": "none", 
+                "eyes": "", 
+                "teeth": "teeth", 
+                "clothing": "clothing", 
+                "accessories": "brown;", 
+                "expression": "cap;", 
+                "strength": "happy;", 
+                "weakness": ""
+            }
+        ]
+    }
+}

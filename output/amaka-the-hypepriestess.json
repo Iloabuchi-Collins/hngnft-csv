@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "amaka the hypepriestess", 
+    "description": "Amaka is can never be intimidated no matter the circumstance. ", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "116", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "c7726e84-3c5c-4e66-8677-cbfb5c9ee850", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "hair;", 
+                "teeth": "", 
+                "clothing": "teeth", 
+                "accessories": "open", 
+                "expression": "clothing", 
+                "strength": "africa", 
+                "weakness": "accessories"
+            }
+        ]
+    }
+}

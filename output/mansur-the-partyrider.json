@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "mansur the partyrider", 
+    "description": "Mansur is the life of a party and never caught dulling.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "341", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "78db0f29-3936-4d9c-bb90-3dbf20dba2dd", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "ash", 
+                "clothing": "teeth", 
+                "accessories": "none;", 
+                "expression": "clothing", 
+                "strength": "agbda;", 
+                "weakness": ""
+            }
+        ]
+    }
+}

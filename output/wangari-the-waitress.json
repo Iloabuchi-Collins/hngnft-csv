@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "wangari the waitress", 
+    "description": "Wangari; the aspiring musician that doubles as a waitress.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "374", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "4bd7a15b-cc66-4e2d-8fdb-d550f2dd645c", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "dreadlocks;", 
+                "teeth": "", 
+                "clothing": "eyes;", 
+                "accessories": "", 
+                "expression": "clothing", 
+                "strength": "none;", 
+                "weakness": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "dele the snoozer", 
+    "description": "If sleeping were to be a job then Dele will be the world busiest man.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "170", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "4f9d99a4-78a2-4fdd-bc30-b027600fa88e", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "cut;", 
+                "teeth": "", 
+                "clothing": "teeth", 
+                "accessories": "gapped", 
+                "expression": "clothing", 
+                "strength": "agbada;", 
+                "weakness": ""
+            }
+        ]
+    }
+}

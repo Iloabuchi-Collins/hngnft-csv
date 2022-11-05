@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "burna morgan", 
+    "description": "Morgan paints the town red with her red hair.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "407", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "d08af477-de20-4780-8449-46b87840b9fa", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "brunette", 
+                "teeth": "eyes", 
+                "clothing": "brown;", 
+                "accessories": "", 
+                "expression": "clothing", 
+                "strength": "ankara", 
+                "weakness": "dungarees;"
+            }
+        ]
+    }
+}

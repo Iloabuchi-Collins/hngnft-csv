@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "charlene the shy lady", 
+    "description": "Meet Charlene; the shy sweetheart next door.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "375", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "36539b84-ada0-43cb-92d4-30596e07a39a", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "afro;", 
+                "teeth": "", 
+                "clothing": "teeth", 
+                "accessories": "none;", 
+                "expression": "", 
+                "strength": "dress;", 
+                "weakness": ""
+            }
+        ]
+    }
+}

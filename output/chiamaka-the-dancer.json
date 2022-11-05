@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "chiamaka the dancer", 
+    "description": "Chiamaka dances so well and earned the guinness world record.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "272", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "43c49497-8d7b-42ef-bb29-769f6c3b0ada", 
+        "attributes": [
+            {
+                "hair": "black;", 
+                "eyes": "", 
+                "teeth": "teeth", 
+                "clothing": "none;", 
+                "accessories": "", 
+                "expression": "off", 
+                "strength": "expression", 
+                "weakness": "none;"
+            }
+        ]
+    }
+}

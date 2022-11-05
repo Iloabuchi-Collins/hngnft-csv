@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "tunde yoruba demon", 
+    "description": "Tunde derives joy in breaking hearts. It's a lifestyle.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "19", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "53b46bd7-a537-402b-b249-0b4074a8faae", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "white;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "purple", 
+                "strength": "yellow", 
+                "weakness": "accessories"
+            }
+        ]
+    }
+}

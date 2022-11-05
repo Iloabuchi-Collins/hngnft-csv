@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "hammed the farmer", 
+    "description": "Hammed owns a farm with his family.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "103", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "e57d8985-599e-49da-8d62-fc16b7ac93f2", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "opened;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "brown", 
+                "strength": "cream", 
+                "weakness": "accessories"
+            }
+        ]
+    }
+}

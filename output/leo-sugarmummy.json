@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "leo sugarmummy", 
+    "description": "A middle age wild yankee returnee.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "225", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "7ec03993-f500-4a41-aa3c-a73df7a0fbed", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "blue;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "leopard", 
+                "strength": "accessories", 
+                "weakness": "none;"
+            }
+        ]
+    }
+}

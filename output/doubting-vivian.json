@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "doubting vivian", 
+    "description": "Vivian just like the thomas in the bible; she doubts all.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "414", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "a0282797-44ef-4bfb-a701-e4ed5e727d63", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "red", 
+                "teeth": "eyes", 
+                "clothing": "brown;", 
+                "accessories": "", 
+                "expression": "clothing", 
+                "strength": "red", 
+                "weakness": "one"
+            }
+        ]
+    }
+}

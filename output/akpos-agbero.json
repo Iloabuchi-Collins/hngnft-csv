@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "akpos agbero", 
+    "description": "A Warri boy always in the mood for violence.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "249", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "70875603-9e90-467f-9d44-af15f71b70e9", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "black;", 
+                "clothing": "", 
+                "accessories": "front", 
+                "expression": "clothing", 
+                "strength": "brown", 
+                "weakness": "and"
+            }
+        ]
+    }
+}

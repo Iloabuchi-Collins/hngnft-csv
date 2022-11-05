@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "flora burger eater", 
+    "description": "She loves eating burgers.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "44", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "054dffd1-cdff-417b-b6c2-a679dabd087b", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "brown;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "stripes;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

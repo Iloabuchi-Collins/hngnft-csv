@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "zawadi mr sleep everywhere", 
+    "description": "Likes sleeping in the weirdest places especially in clubs.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "146", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "c22489fe-574b-47f3-9667-c9c798b2d4df", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "none;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "kente", 
+                "strength": "accessories", 
+                "weakness": "none;"
+            }
+        ]
+    }
+}

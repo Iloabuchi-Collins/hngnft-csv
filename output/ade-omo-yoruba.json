@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "ade omo yoruba", 
+    "description": "Ade is an influential man and he is revered in his town.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "27", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "92984fa0-310b-4377-8a10-15965d044383", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "blue;", 
+                "clothing": "", 
+                "accessories": "white", 
+                "expression": "and", 
+                "strength": "gold", 
+                "weakness": "clothing"
+            }
+        ]
+    }
+}

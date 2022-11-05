@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "adekunle the yoruba demon", 
+    "description": "He might be every woman's man but faithful and loyal to one.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "358", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "5c98c2d8-3144-4e08-8a0f-9b8d7e4f5aa7", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "cap;", 
+                "teeth": "", 
+                "clothing": "eyes;", 
+                "accessories": "", 
+                "expression": "teeth;", 
+                "strength": "", 
+                "weakness": "dansiki;"
+            }
+        ]
+    }
+}

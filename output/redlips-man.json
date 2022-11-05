@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "redlips man", 
+    "description": "A man that kissed a woman and got his lips burnt.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "215", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "4d649c12-05a5-44a4-b4ef-eb285b291aff", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "blue;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "shirt;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "chi lastborn", 
+    "description": "Baby of the house; the lastborn of an average Nigerian family.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "242", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "187b9001-81a7-421b-aeea-ba64f930f6c3", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "blue", 
+                "clothing": "eyes;", 
+                "accessories": "", 
+                "expression": "clothing", 
+                "strength": "animal", 
+                "weakness": "gown;"
+            }
+        ]
+    }
+}

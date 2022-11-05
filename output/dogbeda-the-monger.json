@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "dogbeda the monger", 
+    "description": "A fisherman who pracitically live in the river.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "158", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "66a09968-cb92-4378-a588-49947f68c537", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "and", 
+                "teeth": "cap;", 
+                "clothing": "eyes", 
+                "accessories": "none;", 
+                "expression": "teeth", 
+                "strength": "none;", 
+                "weakness": "clothing"
+            }
+        ]
+    }
+}

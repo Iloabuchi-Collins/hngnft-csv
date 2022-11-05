@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "kiki cala flier", 
+    "description": "She flies first class and gets the best deals.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "51", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "d24aefff-c9fc-4ea9-a7cf-1b741076c822", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "brown;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "ankara;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

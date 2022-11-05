@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "bambi tekno", 
+    "description": "Bambi is the dancer of the team; anytime she hears a beat shes on her feet.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "416", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "95ff5e2c-1ff2-4d58-890b-de0f39f9d8ce", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "low", 
+                "teeth": "eyes", 
+                "clothing": "none;", 
+                "accessories": "", 
+                "expression": "clothing", 
+                "strength": "brown", 
+                "weakness": "dress;"
+            }
+        ]
+    }
+}

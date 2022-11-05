@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "nesta the difficult", 
+    "description": "Meet Nesta;the National Chairlady; (SAN)Shege Administrators of Nigeria.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "371", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "fc3b7ca7-efdb-45b2-b7c9-e69107484a43", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "puffy", 
+                "teeth": "eyes", 
+                "clothing": "brown;", 
+                "accessories": "", 
+                "expression": "clothing", 
+                "strength": "bow", 
+                "weakness": "wax"
+            }
+        ]
+    }
+}

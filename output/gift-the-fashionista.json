@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "gift the fashionista", 
+    "description": "Gift has always been bold and that spreads to her fashion sense too.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "313", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "58765adc-5ace-11ed-9b6a-0242ac120002", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "", 
+                "teeth": "eyes", 
+                "clothing": "brown", 
+                "accessories": "", 
+                "expression": "", 
+                "strength": "", 
+                "weakness": "clothing"
+            }
+        ]
+    }
+}

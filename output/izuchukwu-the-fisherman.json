@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "izuchukwu the fisherman", 
+    "description": "A fisherman who knows how to paddle well", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "294", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "15e1caf2-06b3-45d8-9b35-f95965b64e34", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "closed;", 
+                "clothing": "", 
+                "accessories": "with", 
+                "expression": "gap", 
+                "strength": "clothing", 
+                "weakness": "green"
+            }
+        ]
+    }
+}

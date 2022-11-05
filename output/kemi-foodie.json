@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "kemi foodie", 
+    "description": "Kemi loves food and can also prepare good meals. ", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "117", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "3116cb6f-14c4-4d5a-af57-54253b72a309", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "har", 
+                "teeth": "scarf;", 
+                "clothing": "", 
+                "accessories": "opened;", 
+                "expression": "", 
+                "strength": "clothing", 
+                "weakness": "one"
+            }
+        ]
+    }
+}

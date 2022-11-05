@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "addae the unretired", 
+    "description": "Mummy Addae; the hot grandma that has refused to retire.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "376", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "ced7b53c-73de-4fc7-a652-2b17ebfe68c9", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "brown;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "danshiki;", 
+                "strength": "", 
+                "weakness": "necklace;"
+            }
+        ]
+    }
+}

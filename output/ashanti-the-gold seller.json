@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "ashanti the gold seller", 
+    "description": "Ashanti is a well known gold trader whose trinkets are one of a kind.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "398", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "80b51092-3fbc-4d0c-8518-fc461ccb6c80", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "curly", 
+                "teeth": "eyes", 
+                "clothing": "deep", 
+                "accessories": "teeth", 
+                "expression": "none;", 
+                "strength": "", 
+                "weakness": "kento;"
+            }
+        ]
+    }
+}

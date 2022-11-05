@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "johnathan genz kid", 
+    "description": "Johnathan is zealous young man.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "126", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "90c0ae09-a35f-42ad-b93c-dcf30169acd9", 
+        "attributes": [
+            {
+                "hair": "none", 
+                "eyes": "", 
+                "teeth": "", 
+                "clothing": "clothing", 
+                "accessories": "yellow", 
+                "expression": "wear;", 
+                "strength": "", 
+                "weakness": "cap;"
+            }
+        ]
+    }
+}

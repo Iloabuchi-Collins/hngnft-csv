@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "vamp karishika", 
+    "description": "Queen of the royal Ghana youths", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "233", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "c4ee8a54-0874-4a7f-8344-dea8ba41f5dc", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "black;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "gele;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

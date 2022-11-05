@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "mayor of uyo", 
+    "description": "Essien is a top Lagos businessman who hails from Uyo.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "253", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "6ae4ca87-8d71-48e5-8098-fc5241a0ba36", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "cyan", 
+                "clothing": "left", 
+                "accessories": "eyed;", 
+                "expression": "", 
+                "strength": "clothing", 
+                "weakness": "chieftancy;"
+            }
+        ]
+    }
+}

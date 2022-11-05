@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "barbra stark", 
+    "description": "She loves fine dining and spends time with family.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "42", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "4f31fd99-4918-42a9-a112-fa60ef36d5c6", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "brown;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "ankara;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "massa the ghanian", 
+    "description": "A rich trader who loves giving back to the community", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "290", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "9a9a5fbd-7a3c-469c-95f2-50303c2e9fc8", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "closed", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "akan", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

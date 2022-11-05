@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "james importer and exporter", 
+    "description": "James is the sole importer and exporter of spare parts.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "130", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "22541251-022f-480c-8c1e-cf754dce16d6", 
+        "attributes": [
+            {
+                "hair": "none", 
+                "eyes": "", 
+                "teeth": "teeth", 
+                "clothing": "clothing", 
+                "accessories": "purple", 
+                "expression": "yellow;", 
+                "strength": "cap;", 
+                "weakness": "happy;"
+            }
+        ]
+    }
+}

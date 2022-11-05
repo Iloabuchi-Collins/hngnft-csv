@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "lola medusa", 
+    "description": "Lola is the head maketer at her firm and she is the best at negotiating.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "405", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "32ec57f7-8272-4671-ad2d-db3dff99fe9f", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "red", 
+                "teeth": "eyes", 
+                "clothing": "closed;", 
+                "accessories": "", 
+                "expression": "clothing", 
+                "strength": "geometric", 
+                "weakness": "print;"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "aminu the carpenter", 
+    "description": "Aminu's hands are blessed; he makes the best furniture in the whole of Kano.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "4", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "4f30b751-96e7-40fe-97fd-e3d44973ff2f", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "blue;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "yellow;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

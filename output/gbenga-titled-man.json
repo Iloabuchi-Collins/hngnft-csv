@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "gbenga titled man", 
+    "description": "A chief who is very ambitious in his pursuits for fame", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "292", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "dc6c1a39-ec78-44ca-8296-68c6de7b5de4", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "light", 
+                "clothing": "teeth", 
+                "accessories": "white", 
+                "expression": "a", 
+                "strength": "tooth;", 
+                "weakness": ""
+            }
+        ]
+    }
+}

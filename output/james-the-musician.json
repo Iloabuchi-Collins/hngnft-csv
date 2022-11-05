@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "james the musician", 
+    "description": "A Nigerian based musician who host shows", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "291", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "0d4ad447-3836-47cd-8387-066b200cda01", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "closed;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "akan;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

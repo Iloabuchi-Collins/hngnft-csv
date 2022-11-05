@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "segun baller", 
+    "description": "A man who loves to have fun.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "81", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "58ac5cf6-b644-41c6-af79-ec9aa5f6bdd1", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "black;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "kente;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

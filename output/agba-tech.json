@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "agba tech", 
+    "description": "A tech bro that loves to party but has bad communication skill.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "236", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "403f28a0-6aa7-4f80-997f-b0982c169baa", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "blue;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "ankara;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "kunle the hunter", 
+    "description": "Kunle goes for the best and hits all his targets at bull's eye.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "264", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "b0310fc2-4bed-48e5-abfc-566c964786d7", 
+        "attributes": [
+            {
+                "hair": "black;", 
+                "eyes": "", 
+                "teeth": "teeth", 
+                "clothing": "none;", 
+                "accessories": "", 
+                "expression": "handed", 
+                "strength": "ankara;", 
+                "weakness": ""
+            }
+        ]
+    }
+}

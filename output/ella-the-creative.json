@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "elle the creative", 
+    "description": "Ella is a smart, resourceful and an intellligent copywriter in a marketing firm.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "394", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "3b795bad-91b4-4d0e-8ed8-bccbb226fc55", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "brown", 
+                "teeth": "eyes", 
+                "clothing": "none;", 
+                "accessories": "", 
+                "expression": "clothing", 
+                "strength": "patterned", 
+                "weakness": ""
+            }
+        ]
+    }
+}

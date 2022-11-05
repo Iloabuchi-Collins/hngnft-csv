@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "sharon walking dead", 
+    "description": "sharon cannot work under pressure; she is a soft babe.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "278", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "1fc37341-7dd1-480c-a01b-a63bee0a2230", 
+        "attributes": [
+            {
+                "hair": "dark", 
+                "eyes": "eyes", 
+                "teeth": "closed;", 
+                "clothing": "", 
+                "accessories": "teeth;", 
+                "expression": "", 
+                "strength": "ankara;", 
+                "weakness": ""
+            }
+        ]
+    }
+}

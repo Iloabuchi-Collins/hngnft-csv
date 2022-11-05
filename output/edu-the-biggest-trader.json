@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "edu the biggest trader", 
+    "description": "Edu is the biggest merchant in west coast.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "129", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "48d1de5f-5f3f-46aa-b2fd-68420a8e802b", 
+        "attributes": [
+            {
+                "hair": "none", 
+                "eyes": "", 
+                "teeth": "teeth", 
+                "clothing": "clothing", 
+                "accessories": "black", 
+                "expression": "yellow", 
+                "strength": "native", 
+                "weakness": "accessories"
+            }
+        ]
+    }
+}

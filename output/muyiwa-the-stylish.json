@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "muyiwa the stylish", 
+    "description": "Muyiwa has a motto which is never to be caught unfresh.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "14", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "dcf9d5a0-57b7-4126-a05e-6c8f1045d3f7", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "ash;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "multicolored;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

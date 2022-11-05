@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "nnena pretty girl", 
+    "description": "Nnena is beautiful girl that loves to talk about her beauty.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "113", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "d9477612-ad63-408e-8d12-24679c647b32", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "bob", 
+                "teeth": "eyes", 
+                "clothing": "open;", 
+                "accessories": "", 
+                "expression": "clothing", 
+                "strength": "african", 
+                "weakness": "accessories"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "ojukwu the badguy", 
+    "description": "Ojukwu is a business minded guy but fun to be with.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "344", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "76c1eabf-15ea-446a-8426-472982c4d800", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "eagle", 
+                "clothing": "teeth", 
+                "accessories": "none;", 
+                "expression": "clothing", 
+                "strength": "yellow", 
+                "weakness": "blowse;"
+            }
+        ]
+    }
+}

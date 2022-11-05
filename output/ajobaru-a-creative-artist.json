@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "ajobaru a creative artist", 
+    "description": "A lovely artist who is known for creating magical art pieces that can spark a smile.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "155", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "9d262f55-73d7-4b95-9a82-42356dbb085c", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "and", 
+                "teeth": "fila", 
+                "clothing": "", 
+                "accessories": "", 
+                "expression": "", 
+                "strength": "", 
+                "weakness": ""
+            }
+        ]
+    }
+}

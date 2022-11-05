@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "granpa willy", 
+    "description": "A grandfather that drinks beer and reads newspaper all day.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "209", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "facf7001-d028-4e00-bffc-ed1f7c005ecc", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "eyes", 
+                "teeth": "black;", 
+                "clothing": "", 
+                "accessories": "clothing", 
+                "expression": "shirt;", 
+                "strength": "", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

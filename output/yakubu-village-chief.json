@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "yakubu village chief", 
+    "description": "Yakubu is the best village chieftain.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "123", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "5b0c0d26-d204-4264-b579-081ff9df935b", 
+        "attributes": [
+            {
+                "hair": "none", 
+                "eyes": "", 
+                "teeth": "teeth", 
+                "clothing": "white", 
+                "accessories": "clothing", 
+                "expression": "black", 
+                "strength": "accessories", 
+                "weakness": "expression"
+            }
+        ]
+    }
+}

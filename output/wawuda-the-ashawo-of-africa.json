@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "wawuda the ashawo of africa", 
+    "description": "Brags about his body count and follows skirt anywhere.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "149", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Male"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "0554bf35-f588-4009-aafc-ef875b878c29", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "cap;", 
+                "teeth": "eyes", 
+                "clothing": "none;", 
+                "accessories": "teeth", 
+                "expression": "none;", 
+                "strength": "clothing", 
+                "weakness": "green"
+            }
+        ]
+    }
+}

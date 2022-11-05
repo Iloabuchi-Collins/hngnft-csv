@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007", 
+    "name": "abike the iya loja", 
+    "description": "Abike is a well known trader & the iya-loja of the largest market in Lagos.", 
+    "minting_tool": "HNG Minting Tool", 
+    "sensitive_content": false, 
+    "series_number": "397", 
+    "series_total": 420, 
+    "attributes": [
+        {
+            "trait_type": "gender", 
+            "value": "Female"
+        }
+    ], 
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch", 
+        "id": "7b210c03-5446-462d-980e-c73dbbc1e386", 
+        "attributes": [
+            {
+                "hair": "", 
+                "eyes": "bun;", 
+                "teeth": "", 
+                "clothing": "black;", 
+                "accessories": "", 
+                "expression": "clothing", 
+                "strength": "purpulish", 
+                "weakness": "buba;"
+            }
+        ]
+    }
+}

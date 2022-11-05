@@ -25,7 +25,15 @@ def convert(csvfilepath):
                 "id": "",
                 "attributes": [
                     {
-                        ""
+                        "hair": '',
+                        "eyes": '',
+                        "teeth": '',
+                        "clothing": '',
+                        "accessories": '',
+                        "expression": '',
+                        "strength": '',
+                        "weakness": ''
+
                     }
                 ]
             },
@@ -34,21 +42,36 @@ def convert(csvfilepath):
 
 
     with open(csvfilepath, 'r') as csvf:
-        csvReader = csv.reader(csvf)
+        csvReader = csv.DictReader(csvf)
         
         for rows in csvReader:
                      
-            nft['collection']['id'] = rows[7]
-            nft['collection']['attributes'][0] = rows[6]
-            nft["series_number"] = rows[1]
-            nft["description"] = rows[4]
-            nft["name"] = rows[3]
-            nft["attributes"][0]['value'] = rows[5]
+            nft['collection']['id'] = rows['UUID']
+            nft["series_number"] = rows['Series Number']
+            nft["description"] = rows['Description']
+            nft["name"] = rows['Name']
+            nft["attributes"][0]['value'] = rows['Gender']
+
+            # i joined the whole 'attributes' to one string and split the single string so that i can get the value for each attribute
+            new_attrib = ''.join(rows['Attributes'])
+            result1 = new_attrib.replace(":", " ")
+            result2 = result1.replace(";", " ")
+            result = [result1.split(" ")]
+            print(result)
+            nft['collection']['attributes'][0]['hair'] = result[0][1]
+            nft['collection']['attributes'][0]['eyes'] = result[0][3]
+            nft['collection']['attributes'][0]['teeth'] = result[0][5]
+            nft['collection']['attributes'][0]['clothing'] = result[0][7]
+            nft['collection']['attributes'][0]['accessories'] = result[0][9]
+            nft['collection']['attributes'][0]['expression'] = result[0][11]
+            nft['collection']['attributes'][0]['strength'] = result[0][13]
+            nft['collection']['attributes'][0]['weakness'] = result[0][15]
+            
 
 
             #get name of nft to save as output name
             name = rows['Filename']
-            jsonFilePath= '{}.json'.format(name)
+            jsonFilePath= 'output/{}.json'.format(name)
 
             #creates a json file with name from the nft
             with open(jsonFilePath, 'w') as jsonf:
@@ -68,11 +91,9 @@ def convert(csvfilepath):
 
 def append(hash,file):
     # appends hash 
-    file_name = file.split('.')
-    outfile = file_name[0].split('/')
-    outfile = file_name[0].split('\\')
-    outfile= outfile[-1] + '.output'+ '.csv'
-    csv_input = pd.read_csv(file_name)
-    csv_input['Hash'] = hash
-    
-    csv_input.to_csv('filename.output.csv', index=False)
+    with open(file, 'r') as csvf:
+        csvReader = csv.reader(csvf)
+        csv_input = pd.read_csv(file)
+        csv_input['Hash'] = hash
+        
+        csv_input.to_csv('file1.output.csv', index=False)
